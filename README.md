@@ -20,18 +20,18 @@ I learned that creating a successful project, isn't determined by it's complexit
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="33.3%"  style="align:center;" valign="top">
-<a target="_blank" href="https://github.com/shubhamsigdar1/DND-API">DND API</a>
+   <td width="33.3%"  style="align:center;" valign="top">
+<a target="_blank" href="https://github.com/shubhamsigdar1/CocktailDB-API">CocktailDB-API</a>
         <br />
-      <a target="_blank" href="https://dndapi100devs.netlify.app/">
-            <img src="https://user-images.githubusercontent.com/107163260/208607038-9078c6db-1241-40e1-8fb5-b6f6761a307a.gif" width="100%"  alt="Travelara.org"/>
+      <a target="_blank" href="https://cocktaildbapi.netlify.app/">
+            <img src="https://user-images.githubusercontent.com/107163260/208619506-87d96699-4cbc-4c91-9059-b6505f659069.gif" width="100%"  alt="Travelara.org"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/shubhamsigdar1/Nasa-API">NASA's Picture Of The Day</a>
+<a target="_blank" href="https://github.com/shubhamsigdar1/Dog-breed-API">DogBreed API</a>
       <br />
-        <a target="_blank" href="https://nasaimage.netlify.app/">
-          <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660766736821/FIrrbJHfm.gif" width="100%" alt="Matching Card Game"/>
+        <a target="_blank" href="https://dogbreedapi100devs.netlify.app/">
+          <img src="https://user-images.githubusercontent.com/107163260/208613265-feff917d-2932-4293-82ad-0384a9b13ecd.gif" width="100%" alt="Matching Card Game"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
